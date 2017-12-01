@@ -1,0 +1,8 @@
+[package]
+name = "kodi-spy-native"
+version = "0.1.0"
+authors = ["Andrei Cacio <andrei.cacio@yahoo.com>"]
+
+[dependencies]
+notify = "4.0.0"
+notify-rust = "3"
