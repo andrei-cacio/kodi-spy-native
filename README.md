@@ -15,3 +15,9 @@ $ cargo build --release
 ```bash
 $ ./targer/release/kodi-spy-native {path_to_media_folder} {kodi_http_url}
 ```
+
+### Features
+[x] - CLI interface
+[x] - Listen for file changes
+[x] - Native notification for when a video was detected
+[ ] - Call Kodi API to update the library
