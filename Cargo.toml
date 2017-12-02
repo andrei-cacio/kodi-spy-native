@@ -6,3 +6,4 @@ authors = ["Andrei Cacio <andrei.cacio@yahoo.com>"]
 [dependencies]
 notify = "4.0.0"
 notify-rust = "3"
+reqwest = "0.8.1"
